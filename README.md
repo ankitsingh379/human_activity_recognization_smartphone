@@ -1,0 +1,1 @@
+# human_activity_recognization_smartphone
